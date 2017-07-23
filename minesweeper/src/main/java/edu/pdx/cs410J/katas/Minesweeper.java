@@ -2,7 +2,7 @@ package edu.pdx.cs410J.katas;
 
 import edu.pdx.cs410J.AbstractFlight;
 
-public class Flight extends AbstractFlight {
+public class Minesweeper extends AbstractFlight {
   @Override
   public int getNumber() {
     return 42;
